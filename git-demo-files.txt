@@ -1,4 +1,3 @@
 Night-shift commit 1
 line two added for commit 2
-line three added and will be reverted, commit 3
 line four added as commit 4
