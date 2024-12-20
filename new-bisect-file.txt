@@ -3,3 +3,4 @@ bye.com
 github.com
 data.com
 outlier.com
+deeplearning.ai
