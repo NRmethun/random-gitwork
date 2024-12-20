@@ -2,6 +2,6 @@ hello.com
 bye.com
 github.com
 data.com
-outlier.com
+outlier,com
 deeplearning.ai
 plural.com
