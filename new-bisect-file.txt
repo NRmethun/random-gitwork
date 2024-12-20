@@ -5,3 +5,4 @@ data.com
 outlier,com
 deeplearning.ai
 plural.com
+w3school.com
