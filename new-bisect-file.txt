@@ -7,3 +7,4 @@ deeplearning.ai
 plural.com
 w3school.com
 javapoint.com
+web.com
