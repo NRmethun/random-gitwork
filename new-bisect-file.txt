@@ -2,3 +2,4 @@ hello.com
 bye.com
 github.com
 data.com
+outlier.com
